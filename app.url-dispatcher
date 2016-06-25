@@ -1,0 +1,14 @@
+[
+        {
+                "protocol": "https",
+                "domain-suffix": "linkedin.com"
+        },
+        {
+                "protocol": "https",
+                "domain-suffix": "static.licdn.com"
+        },
+        {
+                "protocol": "https",
+                "domain-suffix": "media.licdn.com"
+        }
+]

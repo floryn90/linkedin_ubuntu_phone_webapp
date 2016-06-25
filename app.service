@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service id="linkedin.floryn90">
+  <type>webapps</type>
+  <name>LinkedIn Webapp</name>
+  <provider>linkedin</provider>
+</service>

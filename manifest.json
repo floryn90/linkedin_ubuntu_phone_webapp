@@ -1,0 +1,16 @@
+{
+    "description": "LinkedIn WebApp",
+    "framework": "ubuntu-sdk-15.04",
+    "hooks": {
+        "google-plus": {
+        "apparmor": "app.json",
+        "desktop": "app.desktop",
+        "urls": "app.url-dispatcher",
+        "content-hub": "app-content.json"
+    }
+},
+    "maintainer": "Florin Lungu <info@florinlungu.it>",
+    "name": "linkedin.floryn90",
+    "title": "LinkedIn",
+    "version": "0.7.1"
+}

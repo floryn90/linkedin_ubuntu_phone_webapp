@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<application id="linkedin.floryn90">
+  <description>LinkedIn webapp</description>
+
+  <services>
+    <service id="linkedin.floryn90">
+      <description>Use the service in a webapp</description>
+    </service>
+  </services>
+
+</application>
